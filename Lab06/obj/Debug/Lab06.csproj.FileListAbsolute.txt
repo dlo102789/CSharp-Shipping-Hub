@@ -1,0 +1,15 @@
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\bin\Debug\Lab06.exe.config
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\bin\Debug\Lab06.exe
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\bin\Debug\Lab06.pdb
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\Lab06.csprojAssemblyReference.cache
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\MainWindow.g.cs
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\App.g.cs
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\Lab06_MarkupCompile.cache
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\Lab06_MarkupCompile.lref
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\MainWindow.baml
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\Lab06.g.resources
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\Lab06.Properties.Resources.resources
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\Lab06.csproj.GenerateResource.cache
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\Lab06.exe
+C:\Users\whone\Downloads\CS470\Lab 06\Lab06\Lab06\obj\Debug\Lab06.pdb
